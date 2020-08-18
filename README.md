@@ -11,7 +11,7 @@ curl -o- https://raw.githubusercontent.com/jiyuu-jin/zsh-toggle-prompt/master/in
 
 ## Usage
 
-To remove your current deafult zsh/bash prompt for the current session run:
+To remove your current default zsh/bash prompt for the current session run:
 
 ```shell
 remove-prompt
