@@ -15,4 +15,4 @@ To remove your current deafult zsh/bash prompt for the current session run:
 
 ```shell
 remove-prompt
-``
+```
